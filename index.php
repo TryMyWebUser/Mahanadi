@@ -84,7 +84,7 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-12 d-center">
                             <div class="about-img">
-                                <img class="img" src="assets/img/banner/about.jpg" alt="about-us" />
+                                <img class="img rounded-5" src="assets/img/banner/about.jpg" alt="about-us" />
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-12">

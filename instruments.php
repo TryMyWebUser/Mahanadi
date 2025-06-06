@@ -44,7 +44,7 @@
                             <h4>Industrial Measuring Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -83,7 +83,7 @@
                             <h4>Laboratory Indicator & Control Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -114,16 +114,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/7.jpg" alt="Multiparameter" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Multiparameter</a></h4>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <!-- Page 2: Civil Survey Construction Instruments -->
@@ -132,7 +122,7 @@
                             <h4>Civil Survey Construction Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -156,30 +146,10 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/10.jpg" alt="Cube Testing Machine" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Cube Testing Machine</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
                                     <a href="instruments.php"><img class="primary-img" src="assets/img/products/11.jpg" alt="Rapid Moisture Meter" /></a>
                                 </div>
                                 <div class="pro-content">
                                     <h4><a href="instruments.php" class="m-0">Rapid Moisture Meter</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/12.jpg" alt="Sieve Shaker" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Sieve Shaker</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +161,7 @@
                             <h4>Agricultural Test & Measure</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -222,16 +192,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/16.jpg" alt="Moisture Meter" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Moisture Meter</a></h4>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <!-- Page 3: Weather Measuring Instruments -->
@@ -240,7 +200,7 @@
                             <h4>Weather Measuring Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -279,7 +239,7 @@
                             <h4>Moisture Measuring Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -326,7 +286,7 @@
                             <h4>Analytical</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -350,16 +310,6 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/25.jpg" alt="Colour Tintometers" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Colour Tintometers</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
                                     <a href="instruments.php"><img class="primary-img" src="assets/img/products/26.jpg" alt="H.P.C.L" /></a>
                                 </div>
                                 <div class="pro-content">
@@ -375,7 +325,7 @@
                             <h4>Oil & Petroleum</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -404,7 +354,7 @@
                             <h4>Paper Testing</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -433,7 +383,7 @@
                             <h4>Seed & Grain</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -464,16 +414,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/34.jpg" alt="WATER ANALYSIS KIT" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Seed Divider</a></h4>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <!-- Page 12: Testing Instruments  -->
@@ -482,7 +422,7 @@
                             <h4>Testing Instruments</h4>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -496,30 +436,10 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/36.jpg" alt="DUST MONITOR" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Densiometer</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
                                     <a href="instruments.php"><img class="primary-img" src="assets/img/products/37.jpg" alt="RADIATION METER" /></a>
                                 </div>
                                 <div class="pro-content">
                                     <h4><a href="instruments.php" class="m-0">Centrifuge</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/38.jpg" alt="PARTICLE COUNTER" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Colour Matching</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -541,17 +461,7 @@
                             <h4>Pharmaceutical Equipments</h4>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-product">
-                                <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/40.jpg" alt="THERMAL IMAGER" /></a>
-                                </div>
-                                <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Fluorimeter</a></h4>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="row justify-content-center">
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
@@ -575,20 +485,207 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/43.jpg" alt="PARTICLE COUNTER" /></a>
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/44.jpg" alt="THERMAL IMAGING CAMERA" /></a>
                                 </div>
                                 <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Capsule Filling</a></h4>
+                                    <h4><a href="instruments.php" class="m-0">Tablet Counting</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Page 12: Rubber Testing Instruments  -->
+                    <div class="row mt-5">
+                        <div class="news-desc text-center mb-30">
+                            <h4>Rubber Testing Instruments</h4>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/45.jpg" alt="THERMAL IMAGER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Shore Hardness</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Page 13: MUD Testing Equipments  -->
+                    <div class="row mt-5">
+                        <div class="news-desc text-center mb-30">
+                            <h4>MUD Testing Equipments</h4>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/46.jpg" alt="THERMAL IMAGER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Alkalinity Test Kit</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Page 14: Scientific Lab Instruments -->
+                    <div class="row mt-5">
+                        <div class="news-desc text-center mb-30">
+                            <h4>Scientific Lab Instruments</h4>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/47.jpg" alt="AUTOCLAVE" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Autoclave</a></h4>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="single-product">
                                 <div class="pro-img">
-                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/44.jpg" alt="THERMAL IMAGING CAMERA" /></a>
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/48.jpg" alt="BIOLOGICAL SAFETY CABINET" /></a>
                                 </div>
                                 <div class="pro-content">
-                                    <h4><a href="instruments.php" class="m-0">Tablet Counting</a></h4>
+                                    <h4><a href="instruments.php" class="m-0">Biological Safety Cabinet</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/49.jpg" alt="BLOOD BANK REFRIGERATOR" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Blood Bank Refrigerator</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/50.jpg" alt="BOD INCUBATOR" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">BOD Incubator</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/51.jpg" alt="BUNSEN BURNER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Bunsen Burner</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/52.jpg" alt="FLOCULATOR" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Flocculator</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/53.jpg" alt="MAGNETIC STIRRER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Magnetic Stirrer</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/54.jpg" alt="DEEP FREEZER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Deep Freezer</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/55.jpg" alt="FERMINATOR" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Ferminator</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/56.jpg" alt="INDUSTRIAL OVEN" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Industrial Oven</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/57.jpg" alt="CYCLO MIXER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Cyclo Mixer</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/58.jpg" alt="INCUBATORS" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Incubators</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/59.jpg" alt="HOT PLATE COUNTER" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Hot Plate Counter</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/60.jpg" alt="HUMIDITY CABINET" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Humidity Cabinet</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="single-product">
+                                <div class="pro-img">
+                                    <a href="instruments.php"><img class="primary-img" src="assets/img/products/61.jpg" alt="INFRA RED RAYS CABINET" /></a>
+                                </div>
+                                <div class="pro-content">
+                                    <h4><a href="instruments.php" class="m-0">Infra Red Rays Cabinet</a></h4>
                                 </div>
                             </div>
                         </div>

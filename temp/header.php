@@ -6,6 +6,21 @@
         a.border.rounded {
             margin: 6px 0;
         }
+        img.rounded {
+            width: 60px !important;
+        }
+    }
+    
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        img.rounded {
+            width: 60px !important;
+        }
+    }
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        img.rounded {
+            width: 60px !important;
+        }
     }
 </style>
 
@@ -51,7 +66,7 @@
                 <div class="col-auto">
                     <div class="logo">
                         <a href="index.php">
-                            <img src="assets/img/logo/logo.png" width="60" class="rounded" alt="logo-image" />
+                            <img src="assets/img/logo/logo.png" width="90" class="rounded" alt="logo-image" />
                         </a>
                     </div>
                 </div>

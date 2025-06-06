@@ -54,6 +54,7 @@
                         <div class="single-footer">
                             <h3 class="footer-title">Phone Number</h3>
                             <div class="footer-content mt-3">
+                                <p style="font-weight: bold;">Jamuna Ashok - (Proprietor).</p>
                                 <p><a href="tel:7305119822"><i class="fa fa-phone me-2"></i>+91 730 511 9822</a></p>
                                 <p><a href="tel:7305912542"><i class="fa fa-phone me-2"></i>+91 730 591 2542</a></p>
                             </div>

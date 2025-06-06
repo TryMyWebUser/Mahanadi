@@ -32,12 +32,12 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-12 d-center">
                             <div class="about-img">
-                                <img class="img" src="assets/img/banner/about.jpg" alt="about-us" />
+                                <img class="img rounded-5" src="assets/img/banner/about.jpg" alt="about-us" />
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-12">
                             <div class="about-content">
-                                <h6 style="font-weight: bold;">About Us</h6>
+                                <h6 style="font-weight: bold;" class="mb-2">About Us!</h6>
                                 <h4 style="font-weight: bold;">Mahanadi Scientific and Instruments</h4><br>
                                 <p>
                                     Mahanadi Scientific and Instruments stands as a premier global player, specializing in the import and export of cutting-edge scientific and laboratory testing instruments. Their extensive product portfolio is essential for quality control, research, and development across a vast array of industries. From paint and powder coating to printing ink, their instruments ensure precision in the coatings sector. They are vital for analyzing oil, petroleum, chemicals, petrochemicals, and fertilizers. We are the suppliers of the pharmaceutical industry such as sectors dealing with packaging, rubber, plastic, paper, and general material testing.
