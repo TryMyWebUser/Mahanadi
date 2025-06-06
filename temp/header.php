@@ -78,7 +78,7 @@
                     <div class="cart-box text-end">
                         <ul>
                             <li>
-                                <a href="tel:7305119822" class="border rounded" style="padding-right: 10px; font-size: small;">Get a Quate</a>
+                                <a href="tel:7305119822" class="border rounded" style="padding-right: 15px; font-size: small;">Get a Quate</a>
                             </li>
                         </ul>
                     </div>

@@ -34,7 +34,7 @@
                         <div class="single-footer">
                             <h3 class="footer-title">Address</h3>
                             <div class="footer-content mt-3">
-                                <p><a href="https://maps.app.goo.gl/c9xUQ73Z3sAfgods9"><i class="fa fa-map-marker me-2"></i>Cbe</a></p><br>
+                                <p><a href="https://maps.app.goo.gl/c9xUQ73Z3sAfgods9"><i class="fa fa-map-marker me-2"></i>12/33A, 1st Floor, Boopathy Nagar, Poompagar Nagar, Vinayagapuram, Coimbatore - 641035</a></p><br>
                             </div>
                         </div>
                     </div>
@@ -55,6 +55,7 @@
                             <h3 class="footer-title">Phone Number</h3>
                             <div class="footer-content mt-3">
                                 <p><a href="tel:7305119822"><i class="fa fa-phone me-2"></i>+91 730 511 9822</a></p>
+                                <p><a href="tel:7305912542"><i class="fa fa-phone me-2"></i>+91 730 591 2542</a></p>
                             </div>
                         </div>
                     </div>

@@ -37,9 +37,10 @@
                         <h3>Contact us</h3>
                         <div class="footer-content">
                             <div class="loc-address">
-                                <span><i class="fa fa-map-marker"></i>Your address goes here.</span>
+                                <span><i class="fa fa-map-marker"></i>12/33A, 1st Floor, Boopathy Nagar, Poompagar Nagar, Vinayagapuram, Coimbatore - 641035</span>
                                 <span><i class="fa fa-envelope-o"></i>mahanadiscientific@gmail.com</span>
                                 <span><i class="fa fa-phone"></i>+91 730 511 9822</span>
+                                <span><i class="fa fa-phone"></i>+91 730 591 2542</span>
                             </div>
                         </div>
                     </div>
